@@ -90,8 +90,8 @@ hi Todo  guifg=#0066FF ctermfg=27 gui=inverse,bold,italic
 hi Underlined  gui=underline
 
 " Invisible character colors
-hi NonText  guifg=#DFDFDF ctermfg=253 guibg=#FFFFFF ctermbg=15
-hi SpecialKey  guifg=#DFDFDF ctermfg=253 guibg=#FFFFFF ctermbg=15
+hi NonText  guifg=#A8A8A8 ctermfg=248 guibg=#FFFFFF ctermbg=15
+hi SpecialKey  guifg=#A8A8A8 ctermfg=248 guibg=#FFFFFF ctermbg=15
 
 " Diff styles {{{1
 hi diffAdded guifg=#007B22 guibg=#FFFFFF ctermfg=28 ctermbg=15
