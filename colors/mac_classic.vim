@@ -46,6 +46,7 @@ let g:colors_name = "mac_classic"
 hi Cursor  guifg=#FFFFFF ctermfg=15 guibg=#3C4C72 ctermbg=240
 hi Visual  guibg=#C6DEFF ctermbg=189
 hi CursorLine  guibg=#F0F6FF ctermbg=15
+hi CursorLineNr  guifg=#444444 ctermfg=236
 hi CursorColumn  guibg=#F0F6FF ctermbg=15
 hi LineNr  guifg=#808080 ctermfg=244 guibg=#EFEFEF ctermbg=7
 hi VertSplit  guifg=#FFFFFF ctermfg=15 guibg=#CFCFCF ctermbg=252 gui=NONE
