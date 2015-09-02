@@ -51,7 +51,7 @@ hi CursorColumn  guibg=#F0F6FF ctermbg=15
 hi LineNr  guifg=#808080 ctermfg=244 guibg=#EFEFEF ctermbg=7
 hi ColorColumn  guibg=#F0F0F0 ctermbg=255
 hi VertSplit  guifg=#FFFFFF ctermfg=15 guibg=#CFCFCF ctermbg=252 gui=NONE
-hi MatchParen  guifg=#1E39F6 ctermfg=27 guibg=NONE gui=bold
+hi MatchParen guifg=#000000 guibg=#FFDD90 ctermfg=27 gui=bold
 hi Pmenu guibg=#EFEFEF ctermbg=7
 hi PmenuSel  guibg=#C6DEFF ctermbg=189
 hi Directory  guifg=#D51015 ctermfg=160 gui=bold
