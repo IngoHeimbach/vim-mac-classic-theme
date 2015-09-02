@@ -49,6 +49,7 @@ hi CursorLine  guibg=#F0F6FF ctermbg=15
 hi CursorLineNr  guifg=#444444 ctermfg=236
 hi CursorColumn  guibg=#F0F6FF ctermbg=15
 hi LineNr  guifg=#808080 ctermfg=244 guibg=#EFEFEF ctermbg=7
+hi SignColumn  guifg=#808080 ctermfg=244 guibg=#EFEFEF ctermbg=7
 hi ColorColumn  guibg=#F0F0F0 ctermbg=255
 hi VertSplit  guifg=#FFFFFF ctermfg=15 guibg=#CFCFCF ctermbg=252 gui=NONE
 hi MatchParen guifg=#000000 guibg=#FFDD90 ctermfg=27 gui=bold
