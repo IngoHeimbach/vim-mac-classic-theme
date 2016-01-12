@@ -64,7 +64,7 @@ hi StatusLineNC  guifg=#000000 ctermfg=0 guibg=#EFEFEF ctermbg=7 gui=NONE
 " Search: {{{2
 " [IncSearch is stronger than Search]
 hi IncSearch  guifg=NONE guibg=#FFCE77 ctermbg=222 gui=NONE
-hi Search  guibg=#FFE6BB ctermbg=223
+hi Search  guibg=LightBlue guifg=black ctermbg=223
 
 " Syntax: {{{1
 hi Normal  guifg=#000000 ctermfg=0 guibg=#FFFFFF ctermbg=15
