@@ -174,7 +174,7 @@ hi javaScriptSpecial  guifg=#00BC41 ctermfg=35 gui=NONE
 " syntax file does not create matches for some items. In
 " particular:
 " * javaScriptArgument - e.g. function(argument)
-" * javaScriptFuncName for object literal style functions - e.g.: 
+" * javaScriptFuncName for object literal style functions - e.g.:
 "     myFunction: function() { ... }
 
 " YAML: {{{1
@@ -224,6 +224,11 @@ hi OL1 guifg=#000000 ctermfg=0 gui=bold
 hi OL2 guifg=#0000A2 ctermfg=19 gui=bold
 hi OL3 guifg=#007B22 ctermfg=28 gui=bold
 hi OL4 guifg=#6E79F1 ctermfg=69 gui=NONE
+" Color Coded: {{{1
+hi Member guifg=#9F000F
+hi Variable guifg=#4372AA
+hi Namespace guifg=#E4601D
+hi EnumConstant guifg=#0A7676
 " Modelines: {{{1
 " vim: nowrap fdm=marker
 " }}}
